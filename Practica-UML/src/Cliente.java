@@ -9,7 +9,7 @@ public class Cliente {
         this.direccion = direccion;
     }
 
-
+//Que deduelve el programa
     public String toString() {
         return "Cliente: " + nombre + " | Email: " + email;
     }
